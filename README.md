@@ -2,4 +2,8 @@
 use requirement.txt to install dependencies.
 pip install -r requirement.txt
 
-run
+activate venv 
+source venv/bin/activate
+
+then run 
+python run.py to run application on port 5001
